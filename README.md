@@ -1,4 +1,4 @@
-** Drying Process Analysis Under Data Constraints**
+**** Drying Process Analysis Under Data Constraints****
 (Manufacturing Process Data Case Study)
 
 **1. Problem**
