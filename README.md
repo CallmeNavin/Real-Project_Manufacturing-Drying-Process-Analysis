@@ -1,7 +1,5 @@
 **What This Case Actually Felt Like**
 
-![Process Mapping](https://github.com/CallmeNavin/Real-Project_Manufacturing-Drying-Process-Analysis/blob/main/process_framework.png)
-
 **1. Problem**
 
 - In a manufacturing drying process, production teams needed to better understand the conditions that lead to special drying outcome, while maintaining processing capacity and operational stability. However, the process did not have a direct sensor indicating drying outcomes in real time. Quality results were recorded separately by QC teams (batch & date level). So it cannot fully synchronized with process sensor data.
@@ -30,6 +28,8 @@ This meant the goal was not theoretical optimization, but practical decision sup
     - Other conditions from upstream side
 This reflects how real manufacturing decisions are often made: based on operational patterns rather than perfect statistical certainty.
 - Frame results as decision trade-offs: Rather than searching for a single optimal setup, results were structured as trade-offs between: Input conditions (upstream), Material characteristics, Operating settings & Production capacity. The goal was to provide decision guidance, not absolute thresholds.
+
+![Process Mapping](https://github.com/CallmeNavin/Real-Project_Manufacturing-Drying-Process-Analysis/blob/main/process_framework.png)
 
 **4. Key Insights**
 - Material size acts as a buffer for operational flexibility:
