@@ -1,5 +1,7 @@
 **What This Case Actually Felt Like**
 
+![Process Mapping](https://github.com/CallmeNavin/Real-Project_Manufacturing-Drying-Process-Analysis/blob/main/process_framework.png)
+
 **1. Problem**
 
 - In a manufacturing drying process, production teams needed to better understand the conditions that lead to special drying outcome, while maintaining processing capacity and operational stability. However, the process did not have a direct sensor indicating drying outcomes in real time. Quality results were recorded separately by QC teams (batch & date level). So it cannot fully synchronized with process sensor data.
